@@ -50,3 +50,10 @@ Nuevamente el dron se ha **apropiado** de esta técnica para hacerla suya, y es 
 Está claro que los drones han llegado para quedarse. Ya se están empezando a usar en el reparto de pedidos en Amazon, en rescates en zonas complicadas, en vigilancia agrícola, y ahora tambíen en el séptimo arte. ¿Hasta dónde llegarán a ser importante en nuestras vidas?
 
 ![Imagen de Dron profesional](https://www.divcreativo.com/wp-content/uploads/2022/01/DIVCREATIVO-DSCF5596.jpg)
+
+
+### Referencias y Bibliografía
+
+* Alberich-Pascual, Jordi. 2018. “Elementos de la creatividad multimedia: apropiación, remediación, hibridación”. Mosaic.(http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/).
+* La Web https://historiadelcine.es/glosario-terminos-cinematograficos/traveling-cine-que-es-ejemplos/
+* EL software toma el mando. Manovich, Lev (2013)
